@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "39912158029",
+    "firebase_url": "https://myapplication1-80caf.firebaseio.com",
+    "project_id": "myapplication1-80caf",
+    "storage_bucket": "myapplication1-80caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39912158029:android:c6d9e278278b8875ecfd04",
+        "android_client_info": {
+          "package_name": "com.example.myapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39912158029-h3sf1e8fvl1qbs3fs44fu0kger84kpge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6hP-O3RSYPFG8V6alVWj6AjntkoG8FJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39912158029-h3sf1e8fvl1qbs3fs44fu0kger84kpge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39912158029:android:2d693c7e14c1d880ecfd04",
+        "android_client_info": {
+          "package_name": "com.example.rchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39912158029-h3sf1e8fvl1qbs3fs44fu0kger84kpge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6hP-O3RSYPFG8V6alVWj6AjntkoG8FJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39912158029-h3sf1e8fvl1qbs3fs44fu0kger84kpge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
